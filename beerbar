@@ -1,0 +1,53 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+    <head>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <title>The delicious life</title>
+        <link rel="icon" type="image/ico" href="images/download.png">
+		<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        
+    </head>
+    
+    <body>
+    		<section id="page"> <!-- Defining the #page section with the section tag -->
+    
+            <header> <!-- Defining the header section of the page with the appropriate tag -->
+            
+                <hgroup>
+					<h1>Beachwalk Resort</h1>
+					<h3>Eat Good Feel Good</h3>
+				</hgroup>
+                                
+                
+            
+            </header>
+                <img src="images/hotel.JPG" width="1000" height="300">
+                <h1>Beer Bar</h1>
+                 <div class="article1">
+                    A bar in the resort is like flushing of bottels, flow of beer and buzzing blender which attract to the visitors. Moreover, Beachwalk resort serve the world wide brands of beer. Moreover, The all customers or visitors feel chill and do fun with their friends, family members as well as relatives. Including the more features , the bar also serve the snaks and fast food with the drinks. The bar serve the world wide expensive beer such as the Space Barley by sapporo, Ambassador Reserve by Crown, Tukankhamun Ale, Sink the Bismarck by brewdog, Utopias by samuel adams, Schorschbock 57 by schorschbrau, Jacobsen Vintage by carlsberg, The end of history by brewdog, blue ribbon 1844 by pabst, Antarctic Nail ale by nail brewing as well as more on. About these, the customers always ask beacuse these brands of beer not harmful for the health because these all made with by highly prorify indegridents.
+                     
+                <img src="images/beer2.jpg" width="550" height="200">
+                     
+
+                      
+                </div>
+                    
+                
+                
+                
+         <footer> <!-- Marking the footer section -->
+           
+        
+              <a href="default.html">Home Page</a>
+      
+<!--           <p>Copyright 2015 - The Delicious Life.com</p>  Change the copyright notice -->
+         
+        </footer>
+            
+		</section> <!-- Closing the #page section -->
+        
+    </body>
+</html>

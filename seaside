@@ -1,0 +1,57 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+    <head>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <title>The delicious life</title>
+        <link rel="icon" type="image/ico" href="images/download.png">
+		<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        
+    </head>
+    
+    <body>
+    		<section id="page"> <!-- Defining the #page section with the section tag -->
+    
+            <header> <!-- Defining the header section of the page with the appropriate tag -->
+            
+                <hgroup>
+					<h1>Beachwalk Resort</h1>
+					<h3>Eat Good Feel Good</h3>
+				</hgroup>
+                                
+                
+            
+            </header>
+                <div class="pic">
+                <img src="images/hotel.JPG">
+                </div>
+                <h1>Sea Side</h1>
+                 <div class="article">
+                     
+            As we know everyone that the seaside hotels as well as resort are both of symbol of relaxation as well as luxury life. Some people thought that they doing hard work in their life thenm they have to spend aleast one vocation on such kind of place. Moreover, on these kind of place they can expense their time with their life. Futhermore, the visitor can take sun bath for their skin condition along with good feeling. whenever, the viewer take rest in fresh air that is good for the brain as well as help to good sleep. nevertheless, they can reduce the stress from their day to day life. With this atmosphere, they can do numerous of activity which proves beneficial for health.
+                </div>
+                    
+                <div id="b">
+                    <img src="images/beer6.jpg" height="400px" width="950px">
+                 </div>
+                
+                
+         <footer> <!-- Marking the footer section -->
+           
+        
+
+           <div class="line"></div>
+             <a href="default.html">Home Page</a>
+         
+<!--         <p>This page under of construction................................</p>-->
+           
+<!--           <p>Copyright 2015 - The Delicious Life.com</p>  Change the copyright notice -->
+         
+        </footer>
+            
+		</section> <!-- Closing the #page section -->
+        
+    </body>
+</html>

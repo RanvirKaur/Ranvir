@@ -1,0 +1,79 @@
+<!DOCTYPE html> <!-- The new doctype -->
+<html>
+    <head>
+    
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        
+        <title>The delicious life</title>
+        <link rel="icon" type="image/ico" href="images/download.png">
+		<link rel="stylesheet" type="text/css" href="styles/normalize.css">
+        <link rel="stylesheet" type="text/css" href="styles/main.css">
+        
+    </head>
+    
+    <body>
+    		<section id="page"> <!-- Defining the #page section with the section tag -->
+    
+            <header> <!-- Defining the header section of the page with the appropriate tag -->
+            
+                <hgroup>
+					<h1>Beachwalk Resort</h1>
+					<h3>Eat Good Feel Good</h3>
+				</hgroup>
+                                
+                
+            
+            </header>
+                <img src="images/hotel.JPG" width="1000" height="350">
+             <h1>Hotel Rooms</h1>
+                <div class="article2">
+                
+                    There are number of rooms which divided into three section single room, sharing room for couples as well as family sweet room . Sometimes, families decided to spend time together then they can book family sweet. Moreover, they can book room online that's the good thing for them. The beachwalk resort provide the luxury room for everyone with beautiful view of outside that's the attract the attention of everyone. Moreover, In the family sweet the hotel provide the project for their family because sometime the demands to watch movie together. The interior decoration of the rooms looks so amazing, it looks perfessionally. Moreover, the businessman can book the room for meeting.
+                    Overall, everyone just attract towards the outside view, the resort suited verge of sea which looks it soo beautiful. 
+                
+                    <div class="form">
+                    <h2>Online Booking for Room</h2>
+                    <form>
+                    First Name:<br>
+                        <input type="text" name="First Name"><br>
+                    Last Name:<br>
+                        <input type="text" name="Last Name"><br>
+                    Gender:<br>
+                        <input type="radio" name="gender" value="Male">Male<br>
+                        <input type="radio" name="gender" value="Female">Female<br>
+                        <input type="radio" name="gender" value="Other">Other <br>
+                        
+                        <input type="Submit" value="Register">
+                
+                    </form>
+                        </div>
+                </div>
+        
+                
+                
+                
+               
+        
+        
+        
+        
+        
+        
+     <footer> <!-- Marking the footer section -->
+           
+        
+
+           <div class="line"></div>
+         
+         <a href="default.html"> HOME PAGE</a>
+         
+        
+           
+       
+
+        </footer>
+            
+		</section> <!-- Closing the #page section -->
+        
+    </body>
+</html>
